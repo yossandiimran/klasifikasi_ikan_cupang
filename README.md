@@ -1,6 +1,6 @@
 # klasifikasi_jenis_ikan_cupang
 
-A new Flutter project.
+Aplikasi Pendeteksi jenis ikan cupang dengan tensorflow lite
 
 ## Getting Started
 
